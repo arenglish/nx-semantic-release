@@ -1,0 +1,43 @@
+{
+  "name": "nx-semantic-release",
+  "version": "0.0.0",
+  "description": "Semantic release plugin for nx workspaces",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">=10.13"
+  },
+  "scripts": {
+    "test": "echo 'no tests right now'",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arenglish/nx-semantic-release.git"
+  },
+  "keywords": [
+    "nx",
+    "monorepo",
+    "semantic-release",
+    "semantic",
+    "versioning",
+    "release",
+    "plugin"
+  ],
+  "author": "Austin R English",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arenglish/nx-semantic-release/issues"
+  },
+  "homepage": "https://github.com/arenglish/nx-semantic-release#readme",
+  "peerDependencies": {
+    "semantic-release": ">=15.4.4 <17.0.0",
+    "@nrwl/nx": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@semantic-release/git": "^8.0.0",
+    "semantic-release": ">=15.4.4"
+  }
+}

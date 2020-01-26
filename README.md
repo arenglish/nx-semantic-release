@@ -31,6 +31,7 @@ The plugin can be configured in the [**semantic-release** configuration file](ht
 }
 ```
 
+
 ### Options
 
 | Option                | Description                                                                                                                                                                                            | Default                                                                                                                                              |

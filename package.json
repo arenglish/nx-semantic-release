@@ -1,6 +1,6 @@
 {
   "name": "nx-semantic-release",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Semantic release plugin for nx workspaces",
   "main": "index.js",
   "directories": {

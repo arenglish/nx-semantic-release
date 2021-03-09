@@ -1,6 +1,6 @@
 # nx-semantic-release
 
-## Deprecated/Unmaintained Please see [this example repository](https://github.com/arenglish/nx-angular-release-demo) demonstrating how to easily release Nx workspace apps with semantic release just using the @semantic-release/exec plugin and custom project targets
+## Deprecated/Unmaintained Please see [this example repository](https://github.com/arenglish/nx-semantic-release-demo) demonstrating how to easily release Nx workspace apps with semantic release just using the @semantic-release/exec plugin and custom project targets
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) plugin to
 prepare workspace apps using nx's affected:<target> tool.
